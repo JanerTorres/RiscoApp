@@ -1,9 +1,9 @@
 # RiscoApp
 
 # Escabilidad
-Este proyecto a pesar de implementar una única funcionalidad, permite destacar su escabilidad debido a la estructura y la arquitectura con la que cuneta, ya que nos permite visualizar una aplicación a futuro de manera modular y reutilizable, lo cual significa que puedo seguir añadiendo fuerza y robustez a la lógica del negocio sin afectar la base de lo que ya está desarrollado en un principio.
+Este proyecto a pesar de implementar una única funcionalidad, permite destacar su escabilidad debido a la estructura y la arquitectura con la que cuenta, ya que nos permite visualizar una aplicación a futuro de manera modular y reutilizable, lo cual significa que puedo seguir añadiendo fuerza y robustez a la lógica del negocio sin afectar la base de lo que ya está desarrollado en un principio.
 
-Las herramientas que se utilizaron nos ayudan a que la aplicación sea muy flexible e interoperable entre diferentes sistemas. La interfaz desarrollada fue sencilla por temas de practicidad para ejemplificar la funcionalidad requerida, sin embargo, el manejo de componentes que nos proporciona React, también deja abiertas las puertas a seguir escalando la aplicación en cuando a frontend y potenciar el diseño gracias a la herramienta de bootstrap.
+Las herramientas que se utilizaron nos ayudan a que la aplicación sea muy flexible e interoperable entre diferentes sistemas. La interfaz desarrollada fue sencilla por temas de practicidad, para ejemplificar la funcionalidad requerida, sin embargo, el manejo de componentes que nos proporciona React, también deja abiertas las puertas a seguir escalando la aplicación en cuando a frontend y potenciar el diseño gracias a la herramienta de bootstrap.
 
 
 # Instrucciones de configuración y ejecución
