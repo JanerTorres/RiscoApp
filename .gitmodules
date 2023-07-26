@@ -1,3 +1,6 @@
 [submodule "riscoapp-backend"]
 	path = riscoapp-backend
 	url = https://github.com/JanerTorres/riscoapp-backend.git
+[submodule "riscoapp-frontend"]
+	path = riscoapp-frontend
+	url = https://github.com/JanerTorres/riscoapp-frontend.git
